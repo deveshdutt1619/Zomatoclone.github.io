@@ -1,2 +1,1 @@
-# Zomatoclone.github.io
-Static Zomato's website clone
+# acciojob-zomato-clone
